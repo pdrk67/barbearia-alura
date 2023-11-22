@@ -1,5 +1,5 @@
 body {
-	background: #CCCCCC
+	
 }
 
 #banner {
@@ -32,4 +32,8 @@ em strong {
 
 .beneficios {
 	color: #FFFFFF;
+}
+
+h2 {
+	text-align: center
 }
